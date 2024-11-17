@@ -17,7 +17,7 @@ class SeederEmpresa extends Seeder
         $empresas = [
             [   
                 'sector_id' => 1,
-                'nombre' => 'Aseguradora Suiza Salvadoreña',
+                'nombre' => 'ACOFINGES',
                 'nit' => '00000000',
                 'nrc' => '00000000',
                 'catalogo_listo' => false,
@@ -41,7 +41,7 @@ class SeederEmpresa extends Seeder
             ],
             [
                 'sector_id' => 1,
-                'nombre' => 'SEGUROS SURA',
+                'nombre' => 'BANCOVI',
                 'nit' => '12345678',
                 'nrc' => '12345678',
                 'catalogo_listo' => false,

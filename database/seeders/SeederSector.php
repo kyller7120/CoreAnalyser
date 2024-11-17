@@ -36,7 +36,7 @@ class SeederSector extends Seeder
                 'rentabilidad_sobre_venta' => 13.9,
             ],
             [
-                'nombre' => 'Contrista eléctrico',
+                'nombre' => 'Contratista eléctrico',
                 'razon_circulante' => 2.1,
                 'prueba_acida' => 1.7,
                 'rotacion_inventario' => 22,
